@@ -14,4 +14,6 @@ Note:
 
 The overview of the 5-stage pipeline is presented in `PipelineOverview.png`.
 
-The top structure of the SystemVerilog implementation is in `mips-pipeline-top.v`.
+The top structure of the Verilog HDL implementation is in `mips-pipeline-top.v`.
+
+The essence of the pipeline is in `StallAndHazardUnit.v`.
