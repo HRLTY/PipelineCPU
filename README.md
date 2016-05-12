@@ -2,8 +2,7 @@
 
 This is a Verilog HDL implementation of a 5-stage pipeline CPU of MIPS architecture.
 
-If you have any question, feel free to reach me at huangrui@buaa.edu.cn.
-You can find more about me at [my blog](hrlty.github.io).
+######If you have any question, feel free to reach me at huangrui@buaa.edu.cn. You can learn more about me from [my CV](http://hrlty.github.io/about/).
 
 The CPU can support 50+ instructions:
 
