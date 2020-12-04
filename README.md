@@ -22,7 +22,7 @@ The essence of the pipeline is in `StallAndHazardUnit.v`.
 
 License:
 
-Copyright (C) 2016 by Rui Huang huangrui@buaa.edu.cn
+Copyright (C) 2016 by Rui Huang huangruiwizard@gmail.com
 
 The program PipelineCPU is licensed under the GNU General Public License.
 
